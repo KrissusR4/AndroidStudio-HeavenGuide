@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Heaven Guide</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_image">Select Avatar</string>
+    <string name="Avatar">Set Avatar</string>
+    <string name="tourist">Tourist</string>
+    <string name="tourGuide">Tour Guide</string>
+    <string name="manager">Manager</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map</string>
+    <string name="action_search">Search</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_friends">Friends</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_logout">Log Out</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="edit_profile_header">Edit your profile</string>
+    <string name="gps_tracker_header">Configure GPS tracker</string>
+    <string name="theme_header">Change app theme</string>
+    <string name="manager_add_header">Add tour/attraction</string>
+
+
+    <!-- Messages Preferences -->
+    <string name="new_username_title">Your new username</string>
+    <string name="new_email_title">Your new email</string>
+    <string name="new_password_title">Your new password</string>
+    <string name="change_theme_title">Light/Dark theme</string>
+
+    <!-- Sync Preferences -->
+    <string name="turn_gps_title">Turn GPS on/off</string>
+    <string name="show_my_gps_title">Show my tracker on the map</string>
+
+</resources>
